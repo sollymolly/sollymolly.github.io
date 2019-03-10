@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+Hello! I am Sol Park, a student in Middle School. This is my first website, and I am planning to make much more to help others with their online searching.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I play tennis, and play some video games. I also love programming as well; duh I just made a website...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Plesae don't contact me; I am a minor.
