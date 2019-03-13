@@ -25,4 +25,4 @@ Here is the proof: Thanks to Fruit Fresh Art on Youtube for guiding my way!!!
 
 9) Yeet, 1 + 1 = 3.
 
-![images](vut.png)
+![_config.yml]({{ site.baseurl }}/images/vut.png)
