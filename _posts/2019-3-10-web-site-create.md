@@ -9,9 +9,9 @@ Here is the proof: Thanks to Fruit Fresh Art on Youtube for guiding my way!!!
 
 1) Assume a == b == 1
 
-2) Multiply each side by b, making ab == b^2
+2) Multiply each side by b, making ab == b<sub>2</sub>
 
-3) Subtract both sides by a^2, making ab - a^2 == b^2 - a^2
+3) Subtract both sides by a<sub>2</sub>, making ab - a<sub>2</sub> == b<sub>2</sub> - a<sub>2</sub>
 
 4) Factorize both sides, making a(b - a) == (b + a)(b - a)
 
