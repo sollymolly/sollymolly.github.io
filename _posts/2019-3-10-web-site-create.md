@@ -47,3 +47,5 @@ O(1) => This is the fastest possible way of coding. No matter how many inputs ar
 
 And that is for my big O notation.
 
+![_config.yml]({{ site.baseurl }}/images/o.png)
+
