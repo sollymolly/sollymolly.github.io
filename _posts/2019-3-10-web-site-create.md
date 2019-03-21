@@ -27,10 +27,8 @@ Here is the proof: Thanks to Fruit Fresh Art on Youtube for guiding my way!!!
 
 ![_config.yml]({{ site.baseurl }}/images/vut.png)
 
----
-layout: post
-title: The Big O
----
+The Big O
+
 Hello World, 3/21/2019.
 
 I recently relearned about the Big O notation.
