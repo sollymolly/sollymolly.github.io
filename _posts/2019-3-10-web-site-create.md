@@ -35,7 +35,7 @@ I recently relearned about the Big O notation.
 
 The Big O Notation is the measurement of the time it takes to execute a code.
 
-O(N<sub>2<sub>) => This is the slowest possible time. The time it takes to execute the code exponentially increases per input(data) file.
+O(N<sub>2</sub>) => This is the slowest possible time. The time it takes to execute the code exponentially increases per input(data) file.
   
 O(N) => This increases linearly per input file; essentially y = x.
 
