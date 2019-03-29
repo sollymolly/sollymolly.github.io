@@ -64,6 +64,8 @@ def push(self, new_data):
     new.next = self.head 
     self.head = new
 
+![_config.yml]({{ site.baseurl }}/images/Linkedlist.png)
+
 
     
    
