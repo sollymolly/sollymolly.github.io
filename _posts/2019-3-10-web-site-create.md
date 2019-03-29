@@ -59,9 +59,12 @@ Linked Lists are better because:
 
 To Insert something:
 
-def push(self, new_data): 
+def push(self, new_data):
+
     new = Node(new_data) 
-    new.next = self.head 
+    
+    new.next = self.head
+    
     self.head = new
 
 ![_config.yml]({{ site.baseurl }}/images/Linkedlist.png)
