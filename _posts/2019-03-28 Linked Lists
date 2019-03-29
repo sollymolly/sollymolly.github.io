@@ -1,8 +1,7 @@
 ---
 layout: post
-title: LinkedLists
+title: Linked Lists
 ---
-
 Linked List, like arrays, is a linear structure of data. Unlike arrays, linked list elements are not stored in the contiguous location ; using pointers, the elements are linked.
 
 Linked Lists are better because:
