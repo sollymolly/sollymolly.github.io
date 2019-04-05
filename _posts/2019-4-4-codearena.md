@@ -7,3 +7,5 @@ Yayy!!! I found something called Code Arena in Hacker Earth, and now I am doing 
 
 4/3/19 First Win: I didn't get full points though...
 
+![_config.yml]({{ site.baseurl }}/images/codearena4-3-19.png)
+
