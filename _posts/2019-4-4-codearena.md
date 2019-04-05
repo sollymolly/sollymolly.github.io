@@ -9,3 +9,8 @@ Yayy!!! I found something called Code Arena in Hacker Earth, and now I am doing 
 
 ![_config.yml]({{ site.baseurl }}/images/codearena4-3-19.PNG)
 
+4/4/19 Second Win: I printed the sample input and it somehow worked...
+
+![_config.yml]({{ site.baseurl }}/images/another....PNG)
+
+
