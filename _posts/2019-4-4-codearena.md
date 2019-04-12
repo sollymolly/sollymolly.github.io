@@ -11,7 +11,7 @@ Yayy!!! I found something called Code Arena in Hacker Earth, and now I am doing 
 
 4/11/19 Third Win: For some stuid reason I used this technique with rows and column when I could have just used simple functions with if and elses, and only  got 3 test cases.
 
-For more information, go to: 
+For more information, go to: https://github.com/sollymolly/Code-Arena
 
 
 
