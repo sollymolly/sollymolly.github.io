@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Totally not Clickbait
+title: Hello There
 ---
 Hello, I have taken my Geometry Math Class today and learned about both the law of sines and cosines and all that jazz, but I learned 
 something much better and interesting today. 1+1=3. 
